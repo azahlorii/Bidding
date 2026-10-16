@@ -1,0 +1,6 @@
+{
+  "name": "ServiceBid – Online Service Bidding System",
+  "description": "A full-stack online service marketplace and bidding platform connecting customers with verified service providers, built with Python Flask, SQLite, and REST APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
